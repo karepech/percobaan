@@ -1,191 +1,287 @@
 #EXTM3U
-#EXTINF:-1,Auto Channel 1
+
+#EXTINF:-1 tvg-name="1024" tvg-logo="https://logo.clearbit.com/1024.com",1024
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
-#EXTINF:-1,Auto Channel 2
+
+#EXTINF:-1 tvg-name="1024" tvg-logo="https://logo.clearbit.com/1024.com",1024
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
-#EXTINF:-1,Auto Channel 3
+
+#EXTINF:-1 tvg-name="22185" tvg-logo="https://logo.clearbit.com/22185.com",22185
 http://Supersonictv.live:8080/live/006779/439866/22185.m3u8
-#EXTINF:-1,Auto Channel 4
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://logo.clearbit.com/master.com",Master
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
-#EXTINF:-1,Auto Channel 5
+
+#EXTINF:-1 tvg-name="Video" tvg-logo="https://logo.clearbit.com/video.com",Video
 http://de.online24.pm/play/6709/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1,Auto Channel 6
+
+#EXTINF:-1 tvg-name="Video" tvg-logo="https://logo.clearbit.com/video.com",Video
 http://de.online24.pm/play/6710/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1,Auto Channel 7
+
+#EXTINF:-1 tvg-name="Video" tvg-logo="https://logo.clearbit.com/video.com",Video
 http://de.online24.pm/play/6711/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1,Auto Channel 8
+
+#EXTINF:-1 tvg-name="82238" tvg-logo="https://logo.clearbit.com/82238.com",82238
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82238.m3u8
-#EXTINF:-1,Auto Channel 9
+
+#EXTINF:-1 tvg-name="Live" tvg-logo="https://logo.clearbit.com/live.com",Live
 http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=22M3puEx8kkErhycy6IgCC7JOOFtwqlGRZZc2yME&secret=a03b950c27378922b460fd664c3d4b1c&time=1736920178|Referer=https://kakotv.com/
-#EXTINF:-1,Auto Channel 10
+
+#EXTINF:-1 tvg-name="Live" tvg-logo="https://logo.clearbit.com/live.com",Live
 http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
-#EXTINF:-1,Auto Channel 11
+
+#EXTINF:-1 tvg-name="Index" tvg-logo="https://logo.clearbit.com/index.com",Index
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1,Auto Channel 12
+
+#EXTINF:-1 tvg-name="Channel 12" tvg-logo="https://logo.clearbit.com/channel12.com",Channel 12
 http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B
-#EXTINF:-1,Auto Channel 13
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://logo.clearbit.com/master.com",Master
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Auto Channel 14
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://logo.clearbit.com/master.com",Master
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Auto Channel 15
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://logo.clearbit.com/master.com",Master
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Auto Channel 16
+
+#EXTINF:-1 tvg-name="401436882" tvg-logo="https://logo.clearbit.com/401436882.com",401436882
 http://zqwkakq.sakuravpn.xyz:900/live/0419634994/4884966970/401436882.m3u8
-#EXTINF:-1,Auto Channel 17
+
+#EXTINF:-1 tvg-name="Playlist" tvg-logo="https://logo.clearbit.com/playlist.com",Playlist
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1,Auto Channel 18
+
+#EXTINF:-1 tvg-name="Playlist" tvg-logo="https://logo.clearbit.com/playlist.com",Playlist
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1,Auto Channel 19
+
+#EXTINF:-1 tvg-name="Playlist" tvg-logo="https://logo.clearbit.com/playlist.com",Playlist
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
-#EXTINF:-1,Auto Channel 20
+
+#EXTINF:-1 tvg-name="Playlist" tvg-logo="https://logo.clearbit.com/playlist.com",Playlist
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1,Auto Channel 21
+
+#EXTINF:-1 tvg-name="Playlist" tvg-logo="https://logo.clearbit.com/playlist.com",Playlist
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
-#EXTINF:-1,Auto Channel 22
+
+#EXTINF:-1 tvg-name="Playlist" tvg-logo="https://logo.clearbit.com/playlist.com",Playlist
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1,Auto Channel 23
+
+#EXTINF:-1 tvg-name="Playlist" tvg-logo="https://logo.clearbit.com/playlist.com",Playlist
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
-#EXTINF:-1,Auto Channel 24
+
+#EXTINF:-1 tvg-name="Usergenrnd0Clv03Fyt" tvg-logo="https://logo.clearbit.com/usergenrnd0clv03fyt.com",Usergenrnd0Clv03Fyt
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-#EXTINF:-1,Auto Channel 25
+
+#EXTINF:-1 tvg-name="Playlistr" tvg-logo="https://logo.clearbit.com/playlistr.com",Playlistr
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1,Auto Channel 26
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://logo.clearbit.com/master.com",Master
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
-#EXTINF:-1,Auto Channel 27
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://logo.clearbit.com/master.com",Master
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
-#EXTINF:-1,Auto Channel 28
+
+#EXTINF:-1 tvg-name="Channel 28" tvg-logo="https://logo.clearbit.com/channel28.com",Channel 28
 https://d39azd0vpxfn6x.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-WPTLive/b20265d5-5ec4-4542-9d60-0d4eacb10c49/0.m3u8
-#EXTINF:-1,Auto Channel 29
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://logo.clearbit.com/master.com",Master
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
-#EXTINF:-1,Auto Channel 30
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://logo.clearbit.com/master.com",Master
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1,Auto Channel 31
+
+#EXTINF:-1 tvg-name="Playlist" tvg-logo="https://logo.clearbit.com/playlist.com",Playlist
 https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
-#EXTINF:-1,Auto Channel 32
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://logo.clearbit.com/master.com",Master
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-#EXTINF:-1,Auto Channel 33
+
+#EXTINF:-1 tvg-name="Index" tvg-logo="https://logo.clearbit.com/index.com",Index
 https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148
-#EXTINF:-1,Auto Channel 34
+
+#EXTINF:-1 tvg-name="Index" tvg-logo="https://logo.clearbit.com/index.com",Index
 https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148
-#EXTINF:-1,Auto Channel 35
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://logo.clearbit.com/master.com",Master
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
-#EXTINF:-1,Auto Channel 36
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://logo.clearbit.com/master.com",Master
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
-#EXTINF:-1,Auto Channel 37
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://logo.clearbit.com/master.com",Master
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
-#EXTINF:-1,Auto Channel 38
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://logo.clearbit.com/master.com",Master
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
-#EXTINF:-1,Auto Channel 39
+
+#EXTINF:-1 tvg-name="3X 632771" tvg-logo="https://logo.clearbit.com/3x632771.com",3X 632771
 https://fhlsport010.tbwe13ddm03.work/token-JRVykuSXffWG7WR9xvY6nG%2BFlMOA1y7jby37wadLRDb0sLLLHUFSCJQtrAtBW1IcRGPdxTJjmv9wepBPBQEQ6MhmSkO0a/cfall/s2001/v3b/053o3rr5nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_632771.m3u8
-#EXTINF:-1,Auto Channel 40
+
+#EXTINF:-1 tvg-name="3X 632197" tvg-logo="https://logo.clearbit.com/3x632197.com",3X 632197
 https://fhlsport010.tbwe13ddm03.work/token-JRVykuSXffWG7WR9xvY6nG%2BFlMOA1y7jby37wadLRDb0sLLLHUFSCJQtrAtBW1IcRGPdxTJjmv9wepBPBQEQ6MhmSkO0a/cfall/s2001/v3b/qp67841snUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_632197.m3u8
-#EXTINF:-1,Auto Channel 41
+
+#EXTINF:-1 tvg-name="3X 632544" tvg-logo="https://logo.clearbit.com/3x632544.com",3X 632544
 https://fhlsport010.tbwe13ddm03.work/token-JRVykuSXffWG7WR9xvY6nG%2BFlMOA1y7jby37wadLRDb0sLLLHUFSCJQtrAtBW1IcRGPdxTJjmv9wepBPBQEQ6MhmSkO0a/cfall/s2001/v3b/qp67841snUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_632544.m3u8
-#EXTINF:-1,Auto Channel 42
+
+#EXTINF:-1 tvg-name="Hd Zh 1 4405643" tvg-logo="https://logo.clearbit.com/hdzh14405643.com",Hd Zh 1 4405643
 https://fhlsport010.tbwe13ddm03.work/token-JRVykuSXffWG7WR9xvY6nG%2BFlMOA1y7jby37wadLRDb0sLLLHUFSCJQtrAtBW1IcRGPdxTJjmv9wepBPBQEQ6MhmSkO0a/v3/get/s3/aHR0cHM6Ly9wbGF5LmdweWN2YWMuY29t/rrty/hd-zh-1-4405643.m3u8?txSecret=f69597c97c4c5aa9632eaa15e394f60e&txTime=69281EE3
-#EXTINF:-1,Auto Channel 43
+
+#EXTINF:-1 tvg-name="3X 633049" tvg-logo="https://logo.clearbit.com/3x633049.com",3X 633049
 https://fhlsport011.tbwe13dgm03.xyz/token-LBd5zrLFK6KG5WN6lvY6zWLQlJra0S7jbnGsxfQfQ2T24ebLHUJeCo4m%2FxVCDU8YRnTVwTcxmfxwfJZFBxMausAzHUKxP9K%2FKz7FfrVJvhZTW9%2BGSIR31qcHhKAwig%3D%3Da/cfall/s2001/v3b/5rr61058nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_633049.m3u8
-#EXTINF:-1,Auto Channel 44
+
+#EXTINF:-1 tvg-name="Mono.Ts" tvg-logo="https://logo.clearbit.com/mono.ts.com",Mono.Ts
 https://fl31.moveonjoy.com/ESPN_U/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Auto Channel 45
+
+#EXTINF:-1 tvg-name="Usergendx42X9Qrnd" tvg-logo="https://logo.clearbit.com/usergendx42x9qrnd.com",Usergendx42X9Qrnd
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
-#EXTINF:-1,Auto Channel 46
+
+#EXTINF:-1 tvg-name="Usergen0Grnd3Y8" tvg-logo="https://logo.clearbit.com/usergen0grnd3y8.com",Usergen0Grnd3Y8
 https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
-#EXTINF:-1,Auto Channel 47
+
+#EXTINF:-1 tvg-name="Hub Sport 1 1" tvg-logo="https://logo.clearbit.com/hubsport11.com",Hub Sport 1 1
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-1-1.m3u8?raw=true
-#EXTINF:-1,Auto Channel 48
+
+#EXTINF:-1 tvg-name="Hub Sport 2 1" tvg-logo="https://logo.clearbit.com/hubsport21.com",Hub Sport 2 1
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-2-1.m3u8?raw=true
-#EXTINF:-1,Auto Channel 49
+
+#EXTINF:-1 tvg-name="Hub Sport 3 1" tvg-logo="https://logo.clearbit.com/hubsport31.com",Hub Sport 3 1
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-3-1.m3u8?raw=true
-#EXTINF:-1,Auto Channel 50
+
+#EXTINF:-1 tvg-name="Live" tvg-logo="https://logo.clearbit.com/live.com",Live
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1,Auto Channel 51
+
+#EXTINF:-1 tvg-name="Usergenrx4T0L8Sybkr" tvg-logo="https://logo.clearbit.com/usergenrx4t0l8sybkr.com",Usergenrx4T0L8Sybkr
 https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-#EXTINF:-1,Auto Channel 52
+
+#EXTINF:-1 tvg-name="Usergendx0Thc60Skrdnnd" tvg-logo="https://logo.clearbit.com/usergendx0thc60skrdnnd.com",Usergendx0Thc60Skrdnnd
 https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
-#EXTINF:-1,Auto Channel 53
+
+#EXTINF:-1 tvg-name="Playlist" tvg-logo="https://logo.clearbit.com/playlist.com",Playlist
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Auto Channel 54
+
+#EXTINF:-1 tvg-name="Live" tvg-logo="https://logo.clearbit.com/live.com",Live
 https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb3m2T4yezxGJjXZyHT4OBveX2x14ZfsWNzT6&secret=7123ee7ebfa5269848adbd93d9d648c2&time=1736774841|Referer=https://kakotv.com/
-#EXTINF:-1,Auto Channel 55
+
+#EXTINF:-1 tvg-name="Offline" tvg-logo="https://logo.clearbit.com/offline.com",Offline
 https://mimipipi22.github.io/logo/offline.m3u8
-#EXTINF:-1,Auto Channel 56
+
+#EXTINF:-1 tvg-name="Playlist" tvg-logo="https://logo.clearbit.com/playlist.com",Playlist
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1,Auto Channel 57
+
+#EXTINF:-1 tvg-name="Channel 57" tvg-logo="https://logo.clearbit.com/channel57.com",Channel 57
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision+
-#EXTINF:-1,Auto Channel 58
+
+#EXTINF:-1 tvg-name="Wedo Sport" tvg-logo="https://logo.clearbit.com/wedosport.com",Wedo Sport
 https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
-#EXTINF:-1,Auto Channel 59
+
+#EXTINF:-1 tvg-name="Index" tvg-logo="https://logo.clearbit.com/index.com",Index
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
-#EXTINF:-1,Auto Channel 60
+
+#EXTINF:-1 tvg-name="Canal+ Sport" tvg-logo="https://logo.clearbit.com/canal+sport.com",Canal+ Sport
 https://op.sajmi.org/play/CANAL%2B%20Sport.m3u8
-#EXTINF:-1,Auto Channel 61
+
+#EXTINF:-1 tvg-name="Nova Sport 4" tvg-logo="https://logo.clearbit.com/novasport4.com",Nova Sport 4
 https://op.sajmi.org/play/Nova%20Sport%204.m3u8
-#EXTINF:-1,Auto Channel 62
+
+#EXTINF:-1 tvg-name="Sporthd" tvg-logo="https://logo.clearbit.com/sporthd.com",Sporthd
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:-1,Auto Channel 63
+
+#EXTINF:-1 tvg-name="Chunklist" tvg-logo="https://logo.clearbit.com/chunklist.com",Chunklist
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1,Auto Channel 64
+
+#EXTINF:-1 tvg-name="Usergendx472Snx93Kdgwqrnd" tvg-logo="https://logo.clearbit.com/usergendx472snx93kdgwqrnd.com",Usergendx472Snx93Kdgwqrnd
 https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
-#EXTINF:-1,Auto Channel 65
+
+#EXTINF:-1 tvg-name="Astpl4" tvg-logo="https://logo.clearbit.com/astpl4.com",Astpl4
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
-#EXTINF:-1,Auto Channel 66
+
+#EXTINF:-1 tvg-name="Astfut" tvg-logo="https://logo.clearbit.com/astfut.com",Astfut
 https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/AstFut.m3u8
-#EXTINF:-1,Auto Channel 67
+
+#EXTINF:-1 tvg-name="Astar2" tvg-logo="https://logo.clearbit.com/astar2.com",Astar2
 https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/Astar2.m3u8
-#EXTINF:-1,Auto Channel 68
+
+#EXTINF:-1 tvg-name="Brisuper1" tvg-logo="https://logo.clearbit.com/brisuper1.com",Brisuper1
 https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/BRISuper1.m3u8
-#EXTINF:-1,Auto Channel 69
+
+#EXTINF:-1 tvg-name="Brisuper2" tvg-logo="https://logo.clearbit.com/brisuper2.com",Brisuper2
 https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/BRISuper2.m3u8
-#EXTINF:-1,Auto Channel 70
+
+#EXTINF:-1 tvg-name="Channel 70" tvg-logo="https://logo.clearbit.com/channel70.com",Channel 70
 https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/BS3.m3u8
-#EXTINF:-1,Auto Channel 71
+
+#EXTINF:-1 tvg-name="Foxsports2" tvg-logo="https://logo.clearbit.com/foxsports2.com",Foxsports2
 https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/Foxsports2.m3u8
-#EXTINF:-1,Auto Channel 72
+
+#EXTINF:-1 tvg-name="Son1" tvg-logo="https://logo.clearbit.com/son1.com",Son1
 https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/Son1.m3u8
-#EXTINF:-1,Auto Channel 73
+
+#EXTINF:-1 tvg-name="Son2" tvg-logo="https://logo.clearbit.com/son2.com",Son2
 https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/Son2.m3u8
-#EXTINF:-1,Auto Channel 74
+
+#EXTINF:-1 tvg-name="Bein2" tvg-logo="https://logo.clearbit.com/bein2.com",Bein2
 https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/bEIN2.m3u8
-#EXTINF:-1,Auto Channel 75
+
+#EXTINF:-1 tvg-name="Prim1" tvg-logo="https://logo.clearbit.com/prim1.com",Prim1
 https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/prim1.m3u8
-#EXTINF:-1,Auto Channel 76
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://logo.clearbit.com/master.com",Master
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,Auto Channel 77
+
+#EXTINF:-1 tvg-name="Master 3360" tvg-logo="https://logo.clearbit.com/master3360.com",Master 3360
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1,Auto Channel 78
+
+#EXTINF:-1 tvg-name="Bitrate 3" tvg-logo="https://logo.clearbit.com/bitrate3.com",Bitrate 3
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1,Auto Channel 79
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://logo.clearbit.com/master.com",Master
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
-#EXTINF:-1,Auto Channel 80
+
+#EXTINF:-1 tvg-name="Usergenrx0Cir27Aq" tvg-logo="https://logo.clearbit.com/usergenrx0cir27aq.com",Usergenrx0Cir27Aq
 https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
-#EXTINF:-1,Auto Channel 81
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://logo.clearbit.com/master.com",Master
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1,Auto Channel 82
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://logo.clearbit.com/master.com",Master
 https://stitcher.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517blivestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f9f2b24b-6a97-11ef-9ed7-d66fb14cb385&profilesFromStream=true
-#EXTINF:-1,Auto Channel 83
+
+#EXTINF:-1 tvg-name="Playlist" tvg-logo="https://logo.clearbit.com/playlist.com",Playlist
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1,Auto Channel 84
+
+#EXTINF:-1 tvg-name="Manifest" tvg-logo="https://logo.clearbit.com/manifest.com",Manifest
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
-#EXTINF:-1,Auto Channel 85
+
+#EXTINF:-1 tvg-name="Manifest" tvg-logo="https://logo.clearbit.com/manifest.com",Manifest
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
-#EXTINF:-1,Auto Channel 86
+
+#EXTINF:-1 tvg-name="Playlist" tvg-logo="https://logo.clearbit.com/playlist.com",Playlist
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1,Auto Channel 87
+
+#EXTINF:-1 tvg-name="Playlist" tvg-logo="https://logo.clearbit.com/playlist.com",Playlist
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Auto Channel 88
+
+#EXTINF:-1 tvg-name="Usergendx0Ul2J8Tsdx9Lgcddwqrnd" tvg-logo="https://logo.clearbit.com/usergendx0ul2j8tsdx9lgcddwqrnd.com",Usergendx0Ul2J8Tsdx9Lgcddwqrnd
 https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
-#EXTINF:-1,Auto Channel 89
+
+#EXTINF:-1 tvg-name="Usergendx0Slfk9Qssdx9Lgxlsdmqrnd" tvg-logo="https://logo.clearbit.com/usergendx0slfk9qssdx9lgxlsdmqrnd.com",Usergendx0Slfk9Qssdx9Lgxlsdmqrnd
 https://ultra2.falconx1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
-#EXTINF:-1,Auto Channel 90
+
+#EXTINF:-1 tvg-name="Index" tvg-logo="https://logo.clearbit.com/index.com",Index
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1,Auto Channel 91
+
+#EXTINF:-1 tvg-name="Supersport1 Hd" tvg-logo="https://logo.clearbit.com/supersport1hd.com",Supersport1 Hd
 https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
-#EXTINF:-1,Auto Channel 92
+
+#EXTINF:-1 tvg-name="Supersport2 Hd" tvg-logo="https://logo.clearbit.com/supersport2hd.com",Supersport2 Hd
 https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
-#EXTINF:-1,Auto Channel 93
+
+#EXTINF:-1 tvg-name="Supersport3 Hd" tvg-logo="https://logo.clearbit.com/supersport3hd.com",Supersport3 Hd
 https://wahyu1ptv.pages.dev/SuperSport3-HD.m3u8
-#EXTINF:-1,Auto Channel 94
+
+#EXTINF:-1 tvg-name="Ziggosport2 Hd" tvg-logo="https://logo.clearbit.com/ziggosport2hd.com",Ziggosport2 Hd
 https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
-#EXTINF:-1,Auto Channel 95
+
+#EXTINF:-1 tvg-name="Playlist" tvg-logo="https://logo.clearbit.com/playlist.com",Playlist
 https://ww.dooballfree.vip/live/dazn2/playlist.m3u8
+
