@@ -1,5 +1,4 @@
 from playwright.sync_api import sync_playwright
-import time
 
 def sniff_requests(url):
     found = set()
@@ -12,35 +11,35 @@ def sniff_requests(url):
         context = browser.new_context()
         page = context.new_page()
 
-        # Tangkap REQUEST
         def on_request(req):
             if ".m3u8" in req.url:
                 found.add(req.url)
 
-        # Tangkap RESPONSE (INI PENTING)
         def on_response(res):
             try:
-                url = res.url
-                if ".m3u8" in url:
-                    found.add(url)
+                if ".m3u8" in res.url:
+                    found.add(res.url)
 
-                # Scan JSON response
-                if "application/json" in res.headers.get("content-type", ""):
+                ctype = res.headers.get("content-type", "")
+                if "application/json" in ctype:
                     text = res.text()
                     if ".m3u8" in text:
-                        for line in text.split():
-                            if ".m3u8" in line:
-                                found.add(line.strip('"').strip("'"))
+                        for part in text.split():
+                            if ".m3u8" in part:
+                                found.add(
+                                    part.strip('"').strip("'").strip(",")
+                                )
             except:
                 pass
 
         page.on("request", on_request)
         page.on("response", on_response)
 
-        page.goto(url, wait_until="domcontentloaded", timeout=60000)
-
-        # TUNGGU LEBIH LAMA (OTT butuh waktu)
-        page.wait_for_timeout(15000)
+        try:
+            page.goto(url, wait_until="domcontentloaded", timeout=60000)
+            page.wait_for_timeout(15000)
+        except:
+            pass
 
         browser.close()
 
