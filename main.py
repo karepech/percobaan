@@ -3,24 +3,30 @@ from extractor.m3u_builder import build_m3u
 import os
 
 def main():
-    streams_all = []
+    all_streams = []
 
-    if not os.path.exists("output"):
-        os.makedirs("output")
+    os.makedirs("output", exist_ok=True)
 
-    with open("targets.txt", "r") as f:
-        targets = [x.strip() for x in f.readlines() if x.strip()]
+    with open("targets.txt") as f:
+        targets = [x.strip() for x in f if x.strip()]
 
     for url in targets:
-        try:
-            print(f"[+] Scanning: {url}")
-            streams = sniff_requests(url)
-            streams_all.extend(streams)
-        except Exception as e:
-            print(f"[!] Error {url}: {e}")
+        print(f"[+] Scan: {url}")
+        streams = sniff_requests(url)
+        print(f"[+] Found {len(streams)} streams")
 
-    streams_all = sorted(set(streams_all))
-    build_m3u(streams_all, "output/playlist.m3u")
+        for s in streams:
+            print("   ", s)
+
+        all_streams.extend(streams)
+
+    all_streams = sorted(set(all_streams))
+
+    if not all_streams:
+        print("[!] TIDAK ADA STREAM DITEMUKAN")
+    else:
+        build_m3u(all_streams, "output/playlist.m3u")
+        print("[✓] playlist.m3u updated")
 
 if __name__ == "__main__":
     main()
