@@ -1,0 +1,39 @@
+name: IPTV Auto Resolver
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v4
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Install Playwright Browser
+      run: |
+        playwright install chromium
+
+    - name: Run Resolver
+      run: |
+        python main.py
+
+    - name: Commit Update If Changed
+      run: |
+        git config --global user.name "iptv-bot"
+        git config --global user.email "bot@github.com"
+        git add output/playlist.m3u
+        git diff --cached --quiet || git commit -m "auto: update playlist"
+        git push
